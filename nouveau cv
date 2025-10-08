@@ -13,23 +13,23 @@
    <a href=""Langues</a>
    <a href=""Informatique</a>
 </nav>
-<!-- le cv en lui même -->
-<h2 id="diplomes"> diplomes</h2>
+<!-- le cv en lui même (titres H2, en chiffres romains)-->
+<li><h2 id="diplomes"> diplomes</h2></li>
 <!-- liste à puces -->
 <ul>
   <li>Université Sorbonne Nouvelle Paris 3 – Licence en Information et Communication, Communication renforcée</li>
   <li>Université Paris Cité – Master 1 en Sciences de l'Éducation, parcours CCFC</li>
   <li>Université Paris 1 Panthéon-Sorbonne – Master 1 CTM</li>
 </ul>
-<h2 id="postes occupées">postes occupées</h2>
-<!-- liste ordonnée -->
+<li><h2 id="postes occupées">postes occupées</h2><li>
+<!-- liste ordonnée (titres H2, en chiffres romains)-->
  <ol>
     <li>Conseillère de vente chez Zadig & Voltaire, Rituals</li>
     <li>Stage chez Capharnaüm</li>
     <li>Professeur d'anglais et de grec</li>
  </ol>
 
-<h2 id="langues parlées"> langues parlées</h2>
+<li><h2 id="langues parlées"> langues parlées</h2><li>
 <ol type = "a">
     <li>Grec (langue maternelle)</li>
     <li>Français, C2</li>
